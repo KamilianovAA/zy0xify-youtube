@@ -1,3 +1,12 @@
+<div>
+  __________       _______         .__  _____       
+\____    /___.__.\   _  \ ___  __|__|/ ____\__.__.
+  /     /<   |  |/  /_\  \\  \/  /  \   __<   |  |
+ /     /_ \___  |\  \_/   \>    <|  ||  |  \___  |
+/_______ \/ ____| \_____  /__/\_ \__||__|  / ____|
+        \/\/            \/      \/         \/     
+</div>
+
 This is an extension that adds (at least tries to) my favorite tall and handsome streamer zy0x in youtube thumbnail.
 
 Based and forked from MrBeastify: [Click here]
