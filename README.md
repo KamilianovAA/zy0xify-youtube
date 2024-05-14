@@ -1,4 +1,4 @@
-This is a browser extension that adds zy0x to all youtube thumbnails.
+This is an extension that adds (at least tries to) my favorite tall and handsome streamer zy0x in youtube thumbnail.
 
 Based and forked from MrBeastify: [Click here]
 
