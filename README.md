@@ -6,8 +6,7 @@ __________       _______         .__  _____
  /     /_ \___  |\  \_/   \>    <|  ||  |  \___  |
 /_______ \/ ____| \_____  /__/\_ \__||__|  / ____|
         \/\/            \/      \/         \/     
-   </pre>
-   <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5fdlj5z1shzc1.gif"/>
+ </pre>
 </div>
 
 This is an extension that adds (at least tries to) my favorite tall and handsome streamer zy0x in youtube thumbnail.
